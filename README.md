@@ -1,5 +1,7 @@
 # Documento de Especificação: Produto Mínimo Viável (MVP)
 
+**Desenvolvedor:** Rodrigo Baião de Magalhães
+
 ---
 
 ## 1. Visão Geral do Produto
