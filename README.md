@@ -4,7 +4,7 @@
 
 ## 1. Visão Geral do Produto
 
-**Nome Provisório:** JuntaAí <br>
+**Nome:** JuntaAí <br>
 **Modelo de Negócio:** B2C (Business-to-Consumer) / Utilitário Web
 
 ### 1.1. O Problema
