@@ -4,7 +4,7 @@
 
 ## 1. Visão Geral do Produto
 
-**Nome Provisório:** JuntaAí (ou InfoRolê) <br>
+**Nome Provisório:** JuntaAí <br>
 **Modelo de Negócio:** B2C (Business-to-Consumer) / Utilitário Web
 
 ### 1.1. O Problema
